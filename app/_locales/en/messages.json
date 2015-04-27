@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "",
+    "description": "Express Image Search"
+  },
+  "appDescription": {
+    "message": "Go straight to a Google Images Search from the browser toolbar",
+    "description": "Go straight to a Google Images Search from the browser toolbar"
+  }
+}
